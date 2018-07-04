@@ -1,0 +1,15 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio 2015 cache/options directory
+.vs/
